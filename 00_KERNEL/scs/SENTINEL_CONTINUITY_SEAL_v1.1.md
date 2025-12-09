@@ -222,3 +222,8 @@ Signed:
 Patrick Sullivan, Founder
 Sentinel Labs LLC
 Keeper of the Continuity Seal
+
+ OpenTimestamps  Proof ¿‰âè„è’”ž~ `W8 üÊÍ³†[fÊð'Cþ$ 5ß‘8E˜ñdðÎúÔFÀ²ïÕm”í:!îÿð&_lLJOðÖ,ÿÓ–ubb_È´R±Õéñ Vy¹ùchÏ[NædTÐ)•ñõ±¾NN?ÿŒ©Ž¤²9ñi7¤‘ðhã #Q2ûü ƒßã
+.ùŽ.-https://alice.btc.calendar.opentimestamps.orgÿð!$\4­qßÝð³?ÆqÃk>‹<Klì˜Ÿ9ñi7¤‘ðÜ€sdx›V ƒßã
+.ùŽ,+https://bob.btc.calendar.opentimestamps.orgðÉÈK:É?Nwýl¼{îÖ¢ñ  Â‚Ô8Åa¯wÀl´‡5$ q¬RÔFu%†[ÜjÃ¦ñi7¤‘ð#ú¾B½æ ƒßã
+.ùŽ)(https://finney.calendar.eternitywall.com
